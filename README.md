@@ -41,18 +41,18 @@ docker run -p 8000:8000 hype
 3. Clubs and committees can add, delete, and edit event details.
 4. Creation of subevents or inclusion of event-related details.
 5. Responsive and visually appealing user interface.
-6. Newsletter for students to stay up-to-date with the upcoming events
+6. Newsletter for students to stay up-to-date with the upcoming events.
 
 
 ## Usage
 1. On the homepage, the live timeline displays upcoming events.
 2. Click on an event to view detailed information.
 3. Use the navigation menu to access past events or view events by specific clubs/committees.
-4. On the day of the event the page greets the user with a confetti animation
+4. On the day of the event the page greets the user with a confetti animation.
 5. To add a new event, log in as a committee administrator and navigate to the admin panel.
 6. In the admin panel, you can add, delete, or edit event details. 
 7. Subevents or additional event-related information can be included when adding or editing an event.
-8. Fill in email details to recieve updates via Newsletters
+8. Fill in email details to recieve updates via newsletters.
 
 ## Technology Stack
 Hype is built using the following technologies:
