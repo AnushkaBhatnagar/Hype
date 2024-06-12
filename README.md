@@ -1,6 +1,6 @@
-# Hype - Experience college like never before!
+# Hype - Experience College Like Never Before!
 
-Hype is an exhilarating web application designed to ignite the college experience. It serves as the ultimate hub for college clubs and committees, delivering an adrenaline-fueled platform that keeps students in the loop with the latest updates, upcoming events, and epic parties. Get ready to ride the wave of excitement as Hype takes you on a wild adventure, where the energy is contagious, the fun is unstoppable, and the memories are legendary.
+Hype is a web application designed to ignite the college experience. It serves as the ultimate hub for college clubs and committees, delivering an adrenaline-fueled platform that keeps students in loop with the latest updates, upcoming events, and epic parties. Get ready to ride the wave of excitement as Hype takes you on a wild adventure, where the energy is contagious, the fun is unstoppable, and the memories are legendary.
 
 ## Getting Started
 
@@ -49,7 +49,7 @@ docker run -p 8000:8000 hype
 2. Click on an event to view detailed information.
 3. Use the navigation menu to access past events or view events by specific clubs/committees.
 4. On the day of the event the page greets the user with a confetti animation
-5. To add a new event, log in as an committee administrator and navigate to the admin panel.
+5. To add a new event, log in as a committee administrator and navigate to the admin panel.
 6. In the admin panel, you can add, delete, or edit event details. 
 7. Subevents or additional event-related information can be included when adding or editing an event.
 8. Fill in email details to recieve updates via Newsletters
